@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ex2","l":"Answers"},{"p":"ex2","l":"FileException"},{"p":"ex2","l":"InitialPollServlet"},{"p":"ex2","l":"LoadQuizServlet"},{"p":"ex2","l":"ManageVoteServlet"},{"p":"ex2","l":"Poll"},{"p":"ex2","l":"Vote"},{"p":"ex2","l":"WebUrlFilter"}]
